@@ -1,0 +1,117 @@
+
+.heading  {
+    /* font-size: 60px; */
+    background-image: url("https://www.scdn.co/i/free/bubbles-dktp.svg"), conic-gradient(rgb(218, 135, 235), rgb(255, 0, 221)), url("./phoneimg.jpeg");
+    height: 100vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: auto;
+
+}
+.Spotify{
+    width: 135px;
+    height: 42px;
+}
+.head{
+    font-size: 60px;
+    margin-top: 150px;
+    color: whitesmoke;
+}
+.button{
+    margin-top: 10px;
+    border-radius: 20px;
+    padding: 10px;
+    border: none;
+    font-weight: bold;
+}
+.mobile_img{
+    
+    margin-top: 100px;
+    
+}
+.images {
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.play {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background-image: linear-gradient(rgb(255, 192, 206), blue);
+    height: 80vh;
+    width: 100%;
+    padding-left: 500px;
+    font-size: 60px;
+    color: whitesmoke;
+    
+}
+.got_question {
+    font-size: 35px;
+    text-align: center;
+    padding-top: 40px;
+    font-weight: bold;
+}
+.head1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background-image: linear-gradient(rgb(255, 192, 206), blue);
+    height: 60vh;
+    width: 100%;
+    padding-left: 500px;
+    font-weight: bold;
+    margin-top: 60px;
+    color: whitesmoke;
+
+}
+.button1{
+    margin-top: 10px;
+    border-radius: 30px;
+    padding: 10px;
+    border: none;
+    font-size: 20px;
+    margin-left: 110px;
+    font-weight: bold;
+
+}
+.play_text{
+    font-size: 60px;
+}
+.footer{
+    background-color: black;
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    height: 500px;
+}
+.footer_details{
+    color: whitesmoke;
+    margin: 70px;
+}
+.social_media_icons{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.social_media_icon img{
+    width: 30px;
+    height: 30px;
+    margin: 10px;
+    cursor: pointer;
+}
+.social_media_icon img :hover{
+    filter: gray;
+}
+.social_media_icons{
+    margin-bottom: 300px;
+    /* background-color: black; */
+}
+.social_media_icon{
+     background-color: whitesmoke;
+     margin-left: 20px;
+     border-radius: 30px;
+}
